@@ -9,3 +9,4 @@ How to install:
 4. Open krunker and play!
 
 Aimbot and autoreload only work when you are logged in, to enable aimbot click 'V', to enable autoreload click 'H'
+I reworked the aimbot to be more accurate
